@@ -10,10 +10,10 @@ Ho una formazione in comunicazione, ma mi sono reinventato come sviluppatore web
 ### Tecnologie usate
 - HTML
 - CSS
-- JavaScript
-- Vue.js
 - Tailwind CSS
 - Bootstrap
+- JavaScript
+- Vue.js
 
 Il mio portfolio è raggiungibile su [fabiomazzilli.it](http://fabiomazzilli.it).
 
